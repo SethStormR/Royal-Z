@@ -8,7 +8,7 @@ There are two versions. The default "Royal Z" and "Royal Z - Glass". To get the 
 
 ![Royal Z-2](https://user-images.githubusercontent.com/60283532/130418581-2a4d6e5f-d10b-4221-9ba7-94f8e1ac575c.png)
 
-# Default Royal Z - Glass
+# Royal Z - Glass
 
 ![c5dd5f11adf2ecb88f0ffd482c291a436ffd2caf](https://user-images.githubusercontent.com/60283532/130917682-05ec3b95-4e59-444a-ada7-e0a0a6a1946c.png)
 
