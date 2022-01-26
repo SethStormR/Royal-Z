@@ -1,0 +1,80 @@
+Version 3.0
+===========
+Budgie is now supported
+-----------
+Added: Celluliod, Drawing, Easytag, gThumb, Plank, Atom,
+Added: Insomnia, Syncthing, Shotcut, MuseScore, PlayonLinux,
+Added: ScummVM, Soundcloud, evernote, ferdi, catfish, Tilix,
+Added: Warpinator, Sounconverter, Pidgin, GPU Viewer,
+-----------
+Games: (Steam) Hollow Knight, (Steam) Wasteland 3,
+Games: (Steam) Rogue Lords, (Steam) Dungeons 1+2+3,
+Games: (Steam) Low on magic, (Steam) Total War: Warhammer 3,
+-----------
+Changed: VideoDownloader, (Steam) Master of Orion 1+2+3+4,
+
+
+Version 2.0
+===========
+XCFE is now supported
+----------
+Apps: 3D-Coat, 4k Slideshow maker, 4k stogram, 4k video downloader,
+Apps: 4k video to mp3, 4k youtube to mp3, GDlauncher, dconf editor,
+Apps: menulibre, thunderbird Mail,
+-----------
+Changed: Freemaker Office, Libre Office, Gnome Photos,
+
+Version 1.3
+===========
+Apps: Vivaldi, VMware, Cutepeaks, Arduino, ClamAV, Viber,
+Apps: Keepass 1+2+x+xc, Gnome Music, Polari, Bluefish,
+Apps: Notepadqq, Pinta, Cointop, BlueJ, avidemux, Openshot,
+Apps: Avocode, simplenote, Boinc, Boxes, apostrophe, Shotwell,
+-----------
+Added: Default Application icon
+
+
+Version 1.2
+===========
+Games: (Steam) Xcom 1+2, (Steam) Sid Meier's Civilization 5+6
+Games: (Steam) Sid Meier's Civilization: Beyond Earth,
+Games: (Steam) Crusader Kings 2+3, (Steam) Total War: WARHAMMER 1+2+3
+Games: (Steam) Pillars of Eternity 1+2,
+Games: 0ad, Warmux, Astromance, 3D Chess, Alien Arena,
+-----------
+Apps: PowerISO, Zoom, Vim, neoVim, bitwarden, Teamspeak,
+Apps: Microsoft Teams, Teamviewer, OnlyOffice, Abiword,
+Apps: Discord, Studio 3T, WPS Office, Telegram, actiona(z),
+Apps: Cozy Drive, Skype, FreeOffice, Stacer, Olive, Vice,
+Apps: Pling, Sublime Text, Sublime Merge, Dropbox,
+-----------
+Added: Category Icons
+Added: Mega Emblems icons
+Added: more mime types icons
+-----------
+Fixed: folder icon when transfer or merging directories
+
+
+
+Version 1.1
+===========
+Games: (Steam) Endless Space 2, (Steam) Pathfinder: Wrath of the Rightous,
+Games: (Steam) Slay the Spire, (Steam) Master of Orion 1+2+3,
+Games: (Steam) Frostpunk, (Steam) Northgaard, (Steam) Mousecraft,
+Games: EVE Online, Stone Soup, SuperTux 2, SuperTuxKart,
+-----------
+Apps: Brave, chrome, chromium, opera, Microsoft Edge, epiphany,
+Apps: Stellarium, emacs, bitwig, reaper, slack, Zotero, PCloud,
+Apps: Visual Studio Code, Visual Studio Code Insiders, Liferea,
+Apps: Tilda, Cool Retro Term, Bleachbit, audacious, texmaker,
+Apps: RocketChat, Lollypop, Foxit Reader, Acetino2, Acetoneiso,
+-----------
+Devices icons: USB stick icon added
+
+Version 1.0
+===========
+Zorin OS 16 Pro fully supported
+Places Icons completed
+Mime Types icons completed
+Emblems Icons completed
+Devices Icons completed
